@@ -34,7 +34,7 @@ AI-Violence-Detection-System/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/adityaaadhikari/SafeVision
+git clone https://github.com/adityaaadhikari/SafeVision-
 cd AI-Violence-Detection-System
 
 
