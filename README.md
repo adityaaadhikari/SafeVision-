@@ -1,5 +1,5 @@
 
-# AI Violence Detection System 
+# SafeVision-AI Violence Detection System 
 
 A real-time **violence detection system** built using **YOLOv8, OpenCV, and FastAPI**.  
 The project uses a webcam as input, performs inference through a trained YOLO model, and streams live annotated video in a browser-based interface.  
