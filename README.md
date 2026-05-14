@@ -111,7 +111,7 @@ This project is licensed under the **MIT License** – free to use and modify.
 
 ## Credits
 
-* Internship Project by **Sajag Gupta**
+* Major Project by **Aditya Adhikari**
 * YOLOv8 by [Ultralytics](https://github.com/ultralytics/ultralytics)
 * FastAPI by Sebastián Ramírez & contributors
 
